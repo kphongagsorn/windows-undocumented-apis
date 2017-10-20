@@ -1,0 +1,8 @@
+﻿  Source.c
+  Generating code
+  1 of 2 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  testdll.vcxproj -> C:\Users\admin\Documents\Visual Studio 2015\Projects\testdll\Release\testdll.dll
+  testdll.vcxproj -> C:\Users\admin\Documents\Visual Studio 2015\Projects\testdll\Release\testdll.pdb (Full PDB)

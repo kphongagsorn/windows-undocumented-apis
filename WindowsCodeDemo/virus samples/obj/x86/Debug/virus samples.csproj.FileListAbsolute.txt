@@ -1,0 +1,14 @@
+C:\projects\Research papers\virus sample code\virus samples\virus samples\obj\x86\Debug\virus_samples.Properties.Resources.resources
+C:\projects\Research papers\virus sample code\virus samples\virus samples\obj\x86\Debug\virus samples.csproj.GenerateResource.Cache
+C:\projects\Research papers\virus sample code\virus samples\virus samples\bin\Debug\virus samples.exe
+C:\projects\Research papers\virus sample code\virus samples\virus samples\bin\Debug\virus samples.pdb
+C:\projects\Research papers\virus sample code\virus samples\virus samples\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\projects\Research papers\virus sample code\virus samples\virus samples\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\projects\Research papers\virus sample code\virus samples\virus samples\obj\x86\Debug\virus samples.exe
+C:\projects\Research papers\virus sample code\virus samples\virus samples\obj\x86\Debug\virus samples.pdb
+C:\projects\Research papers\virus sample code\virus samples\virus samples\obj\x86\Debug\virus_samples.frmMalwareDemo.resources
+C:\projects\Research papers\virus sample code\virus samples\virus samples\obj\x86\Debug\virus samples.csprojResolveAssemblyReference.cache
+C:\projects\virusdemo\virus samples\obj\x86\Debug\virus samples.exe
+C:\projects\virusdemo\virus samples\obj\x86\Debug\virus samples.pdb
+C:\projects\WindowsCodeDemo\virus samples\obj\x86\Debug\virus samples.exe
+C:\projects\WindowsCodeDemo\virus samples\obj\x86\Debug\virus samples.pdb

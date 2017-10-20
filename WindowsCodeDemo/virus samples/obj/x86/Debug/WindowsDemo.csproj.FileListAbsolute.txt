@@ -1,0 +1,37 @@
+C:\projects\WindowsCodeDemo\virus samples\obj\x86\Debug\WindowsDemo.csproj.GenerateResource.Cache
+C:\projects\WindowsCodeDemo\virus samples\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\projects\WindowsCodeDemo\virus samples\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\projects\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.frmMain.resources
+C:\projects\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.frmMalwareDemo.resources
+C:\projects\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.Properties.Resources.resources
+C:\projects\WindowsCodeDemo\virus samples\bin\Debug\windowsDemo.exe
+C:\projects\WindowsCodeDemo\virus samples\bin\Debug\windowsDemo.pdb
+C:\projects\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.exe
+C:\projects\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.pdb
+C:\Projects\Presentations\Defon 25\WindowsCodeDemo\virus samples\bin\Debug\windowsDemo.exe.config
+C:\Projects\Presentations\Defon 25\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.exe
+C:\Projects\Presentations\Defon 25\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.pdb
+C:\Projects\Presentations\Defon 25\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.frmMain.resources
+C:\Projects\Presentations\Defon 25\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.frmMalwareDemo.resources
+C:\Projects\Presentations\Defon 25\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.frmWindowsData.resources
+C:\Projects\Presentations\Defon 25\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.Properties.Resources.resources
+C:\Projects\Presentations\Defon 25\WindowsCodeDemo\virus samples\obj\x86\Debug\WindowsDemo.csproj.GenerateResource.Cache
+C:\Projects\Presentations\Defon 25\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.frmRegistry.resources
+C:\Projects\Presentations\Defon 25\WindowsCodeDemo\virus samples\bin\Debug\windowsDemo.exe
+C:\Projects\Presentations\Defon 25\WindowsCodeDemo\virus samples\bin\Debug\windowsDemo.pdb
+C:\Projects\Presentations\Defon 25\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.frmWinAPI.resources
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\bin\Debug\windowsDemo.exe.config
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.exe
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.pdb
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\bin\Debug\windowsDemo.exe
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\bin\Debug\windowsDemo.pdb
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\obj\x86\Debug\WindowsDemo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.frmMain.resources
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.frmMalwareDemo.resources
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.frmRegistry.resources
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.frmWinAPI.resources
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.frmWindowsData.resources
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\obj\x86\Debug\windowsDemo.Properties.Resources.resources
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\obj\x86\Debug\WindowsDemo.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\admin\Documents\WindowsCodeDemo\WindowsCodeDemo\virus samples\obj\x86\Debug\WindowsDemo.csproj.ResolveComReference.cache

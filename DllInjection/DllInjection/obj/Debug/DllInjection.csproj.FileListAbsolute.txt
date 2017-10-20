@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\DllInjection\DllInjection\bin\Debug\DllInjection.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\DllInjection\DllInjection\bin\Debug\DllInjection.exe
+c:\users\admin\documents\visual studio 2015\Projects\DllInjection\DllInjection\bin\Debug\DllInjection.pdb
+c:\users\admin\documents\visual studio 2015\Projects\DllInjection\DllInjection\obj\Debug\DllInjection.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\DllInjection\DllInjection\obj\Debug\DllInjection.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\DllInjection\DllInjection\obj\Debug\DllInjection.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\DllInjection\DllInjection\obj\Debug\DllInjection.exe
+c:\users\admin\documents\visual studio 2015\Projects\DllInjection\DllInjection\obj\Debug\DllInjection.pdb
