@@ -1,9 +1,9 @@
-# Using Undocumented Windows APIs and DLL Injection in C#
+# Undocumented Windows APIs, Keylogger, and DLL Injection in C#
 Brown bag presentation I made
 
 Please refer to [this pdf](https://github.com/kphongagsorn/windows_api/blob/master/Windows_Exploitation_using_Windows_API%E2%80%99s.pdf) for the presentation
 
-## Using Undocumented Window's APIs 
+## Undocumented Window's APIs 
 
 ### Getting User Credentials
 ![alt text](https://github.com/kphongagsorn/windows_api/blob/master/images/windows_demo_poc1.PNG "Getting User Credentials")
